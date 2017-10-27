@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-source-stripe-products",
+  "version": "1.0.0",
+  "description": "Gatsby source plugin for building websites using Stripe Products as a data source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-source-plugin"
+  ],
+  "author": "Nathan Beck <njosefbeck@gmail.com> (njosefbeck.com)",
+  "license": "MIT",
+  "dependencies": {
+    "stripe": "^5.2.0"
+  }
+}
