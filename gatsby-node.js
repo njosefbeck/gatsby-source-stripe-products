@@ -31,6 +31,7 @@ exports.sourceNodes = async (
   products.forEach(product => {
     let node = {
       id: product.id,
+      object: product.object,
       active: product.active,
       attributes: product.attributes,
       caption: product.caption,
@@ -44,6 +45,8 @@ exports.sourceNodes = async (
       package_dimensions: product.package_dimensions,
       shippable: product.shippable,
       skus: product.skus,
+      updated: product.updated,
+      url: product.url,
       parent: null,
       children: [],
       internal: {
