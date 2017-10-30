@@ -4,11 +4,11 @@ Source plugin for pulling in products data from Stripe. Autopaginates so you sho
 
 ## Install
 
-`npm install gatsby-source-contentful`
+`npm install gatsby-source-stripe-products`
 
 or
 
-`yarn add gatsby-source-contentful`
+`yarn add gatsby-source-stripe-products`
 
 ## How to use
 
