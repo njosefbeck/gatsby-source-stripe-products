@@ -1,5 +1,7 @@
 # gatsby-source-stripe-products
 
+**This plugin is no longer being updated, as there's a newer, shinier one that lets you get more of your Stripe data! Check out [gatsby-source-stripe](https://github.com/njosefbeck/gatsby-source-stripe) for more information.**
+
 Source plugin for pulling in products data from Stripe. Autopaginates so you should get all of your products and their SKUs. The fields that are returned are the same as found in the [Stripe Product API](https://stripe.com/docs/api#product_object).
 
 ## Install
