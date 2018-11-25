@@ -4,11 +4,7 @@
   "description": "Gatsby source plugin for building websites using Stripe Products as a data source",
   "author": "Nathan Beck <njosefbeck@gmail.com> (njosefbeck.com)",
   "main": "index.js",
-  "keywords": [
-    "gatsby",
-    "gatsby-plugin",
-    "gatsby-source-plugin"
-  ],
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "https://github.com/njosefbeck/gatsby-source-stripe-products.git"
