@@ -12,6 +12,6 @@
   "bugs": "https://github.com/njosefbeck/gatsby-source-stripe-products/issues",
   "license": "MIT",
   "dependencies": {
-    "stripe": "^5.2.0"
+    "stripe": "6.25.1"
   }
 }
